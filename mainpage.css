@@ -1,0 +1,50 @@
+body
+{
+	background-color:#cebed9;
+}
+#mainfront
+{
+	height: 620px;
+	width: 730px;
+	background-image: url('main_img/blog.png');
+	margin: auto;
+	border-radius: 10px;
+	margin-top: 30px;
+}
+#circle
+{
+height:100px;
+width:100px;
+border-radius:50px;
+background-color:#cebed9;
+margin-left: 110px;
+float: left;
+margin-top: 15px;
+cursor: pointer;
+opacity: .7
+}
+#circle:hover
+{
+background-color:green;
+color:red;
+border-bottom:4px solid white;
+
+}
+#circle_a
+{
+
+height:500px;
+width:500px;
+border-radius:250px;
+background-color:#cebed9;
+float: left;
+margin-left: 120px;
+opacity: .8;
+cursor:pointer;
+}
+#circle_a:hover
+{
+	background-color:green;
+	color:black;
+	border-bottom:4px solid white;
+}

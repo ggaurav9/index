@@ -1,0 +1,35 @@
+body
+{
+	background-color:#cebed9;
+}
+#login
+{
+	height: 550px;
+	width: 800px;
+	background-color: #cebed9;
+	margin: auto;
+	margin-top: 50px;
+	padding: auto;
+	border-radius: 10px;
+
+}
+#login_A
+{
+	height: 550px;
+	width: 400px;
+	background-image: url('image/login.png');
+	border-radius: 10px 0px 0px 10px;
+	float: left;
+}
+#login_B
+{
+	height: 550px;
+	width: 399px;
+	background-color: #000000;
+	float: left;
+	border-radius: 0px 10px 10px 0px;
+}
+#button ul li 
+{
+	text-decoration: none
+}
